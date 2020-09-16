@@ -28,7 +28,7 @@ This dataset shows all school level performance data used to create CPS School R
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. 
 
 
-#Problems You will Do
+# Problems You will Do
 
 ### Problem 1
 
